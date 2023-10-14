@@ -1,5 +1,5 @@
 {
-  "homepage": "https://arush-shri.github.io/mernReactTask1",
+  "homepage": "https://arush-shri.github.io/mernReactTask1/",
   "name": "reacttask1",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
